@@ -42,6 +42,7 @@ Benefits:
 In the 1980s, different networking vendors (IBM, DEC, etc.) had incompatible systems. The **ISO** (International Organization for Standardization) created the **OSI (Open Systems Interconnection) model** in 1984 as a universal reference framework.
 
 The OSI model has **7 layers**. Every network function can be classified into one of these layers:
+trick: PDNTSPA
 
 ```
 ┌───┬──────────────┬──────────────────────────────────────────────────────┐
